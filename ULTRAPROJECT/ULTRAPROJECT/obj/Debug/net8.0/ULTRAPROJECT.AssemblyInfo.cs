@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ULTRAPROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e59a5fd0c4e80e77bbd98c31428f0a41659c0467")]
 [assembly: System.Reflection.AssemblyProductAttribute("ULTRAPROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ULTRAPROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
