@@ -1,4 +1,6 @@
-﻿namespace ULTRAPROJECT
+﻿using MySql.EntityFrameworkCore;
+
+namespace ULTRAPROJECT
 {
     internal class Program
     {
