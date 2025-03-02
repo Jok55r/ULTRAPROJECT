@@ -4,8 +4,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 ## MY SHIT RRRAHHHH::
-obj/
-*.csproj.nuget.*
 
 obj/Debug/net8.0/ULTRAPROJECT.AssemblyInfo.cs
 obj/Debug/net8.0/ULTRAPROJECT.AssemblyInfoInputs.cache
@@ -15,6 +13,14 @@ obj/project.assets.json
 obj/project.nugget.cache
 obj/ULTRAPROJECT.csproj.nuget.dgspec.json
 obj/ULTRAPROJECT.csproj.nuget.g.props
+
+##CHATGPT RAHHHH:::
+obj/
+*.csproj.nuget.*
+bin/
+obj/
+.vs/
+*.csproj.nuget.*
 
 # User-specific files
 *.rsuser
